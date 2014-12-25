@@ -1,0 +1,71 @@
+﻿        #slideout {
+            position:fixed;
+            z-index:10000;
+            top: 20px;
+            right:-10px;
+            padding:10px 20px 10px 10px;
+        }
+        #slideout .btn {
+            float:left;
+            width:50%;
+            color:white;
+            cursor:pointer;
+            text-align:center;
+        }
+            #slideout .slideBtn {
+                position:absolute;
+                background-color:black;
+                color:white;
+                width:50px;
+                height:50px;
+                left:-60px;
+                top:50px;
+               opacity:.75;
+               cursor:pointer;
+               z-index:1000;
+            }
+        #slideout .innerslideout {
+            position:absolute;
+            top:0px;
+            left:0px;
+            right:0px;
+            bottom:0px;
+
+            background-color:black;
+            opacity:.75;
+        }
+            #slideout .slidecontent {
+                position:relative;
+
+            }
+        #slideout .thumb {
+            position: relative;
+            cursor:pointer;
+            opacity: .5;
+            margin:5px 0px;
+        }
+            #slideout .thumb.active, #slideout .thumb:hover {
+                opacity:1;
+            }
+
+
+        .ksg-edit-slideshow {
+            width:10px; height:10px;
+            background-color: red;
+            cursor:pointer;
+            position:absolute;            
+            z-index:10;
+        }
+
+        
+        /*Admin CSS*/
+        .syx-slideshows-ids li.selected {font-weight: bold}
+.syx-new-slide-dialog {
+    position: absolute;
+    width: 300px;
+    height: 150px;
+}
+
+.ksg-slide-layer.inedit {
+    border: 2px dashed #000000;
+}

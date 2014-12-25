@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kusog.Mvc.ActionExtension" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAIAAIAAAgAAEAAAAAgAAAAAAACAAAA=</HashCode>
+      <FileName>ActionExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kusog.Mvc.AssemblyResourceProvider" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAEAAAAABAQAIAABAAAAAAAAAAAEADAAAQA=</HashCode>
+      <FileName>AssemblyResourceProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kusog.Mvc.AssemblyResourceVirtualFile" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AssemblyResourceProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kusog.Mvc.BaseMvcPlugin" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>yABAABQCUgUJKBMAMAAAIAABACAAgAAABADAAAAkAIE=</HashCode>
+      <FileName>BaseMvcPlugin.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Kusog.Mvc.BaseMvcPluginApplication" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QkAAEAACAyAAAIAAHAABAGAkCBRQhAQAYgRAAABQAAw=</HashCode>
+      <FileName>BaseMvcPluginApplication.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Kusog.Mvc.CompoundActionResult" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAABAAAAAAAIBAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>CompoundActionResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kusog.Mvc.DynamicActionFilter" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>DynamicActionFilter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kusog.Mvc.DynamicActionFilterAttribute" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DynamicActionFilterAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kusog.Mvc.MvcPluginMetadataAttribute" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAAAAAAQAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>IMvcPlugin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kusog.Mvc.PluginApplication" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA4gAAAABABAA=</HashCode>
+      <FileName>PluginApplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kusog.Mvc.PluginRazorViewEngine" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAgBAAAAAABAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>PluginRazorViewEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kusog.Mvc.SiteResource" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAACAAAAAAAAgAAAAIACAABAAAAAAAAIAAAA=</HashCode>
+      <FileName>SiteResource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kusog.Mvc.Widget" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Widget.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kusog.Mvc.WidgetContainer" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAIAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WidgetContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kusog.Mvc.WrapAction" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>WrapAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Kusog.Mvc.IMvcPlugin" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAgAAIAAAIAAAAAAAAAAAAAAABACAAAAEAIA=</HashCode>
+      <FileName>IMvcPlugin.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Kusog.Mvc.IMvcPluginSys" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAACAAAAAAAABAAAAgAAA=</HashCode>
+      <FileName>IMvcPlugin.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Kusog.Mvc.IMvcPluginData" Collapsed="true">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAAAAAAQAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>IMvcPlugin.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Kusog.Mvc.IMvcPluginApplication" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAABBQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMvcPluginApplication.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
